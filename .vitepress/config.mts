@@ -11,8 +11,9 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '前端', link: '/markdown-examples' },
-      { text: '后端', link: '/markdown-examples1' },
-      { text: '优化', link: '/markdown-examples2' }
+      { text: '后端', link: '/nest' },
+      { text: '优化', link: '/markdown-examples2' },
+      { text: '文档', link: '/word' }
     ],
 
     sidebar: [
@@ -21,7 +22,7 @@ export default defineConfig({
         items: [
           { text: 'JavaScript',
             items:[
-              { text: 'Markdown Examples222', link: '/fn' },
+              { text: 'DOM', link: '/fn' },
             ]
            },
            { text: 'TypeScript',
@@ -29,17 +30,28 @@ export default defineConfig({
               { text: 'Class类', link: '/class' },
             ]
            },
-          { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       },
       {
-        text: 'Examples',
+        text: '后端',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'nest', link: '/nest.md' },
+        ]
+      },
+      {
+        text: '优化',
+        items: [
+          { text: 'SEO', link: '/seo.md' },
+        ]
+      },
+      {
+        text: '文档',
+        items: [
+          { text: 'vitepress', link: '/word.md' }
         ]
       }
     ],
+    
     docFooter:{
       prev:'上一页',
       next:'下一页',

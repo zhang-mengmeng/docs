@@ -1,3 +1,12 @@
+---
+outline: deep
+prev:
+  text: 'DOM(JavaScript)'
+  link: '/fn'
+next:
+  text: 'nestjs(后端)'
+  link: '/nest'
+---
 # Class类
 
 ## 1.类型约束 

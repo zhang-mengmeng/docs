@@ -1,3 +1,9 @@
+---
+outline: deep
+next:
+  text: 'Class类(TypeScript)'
+  link: '/class'
+---
 # JavaScript
 
 ## 箭头函数和普通函数的区别
