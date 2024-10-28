@@ -41,7 +41,8 @@ export default defineConfig({
       {
         text: '优化',
         items: [
-          { text: 'SEO', link: '/seo.md' },
+          { text: 'SEO(搜素引擎优化)', link: '/seo.md' },
+          { text: '埋点', link: '/maidian.md' },
         ]
       },
       {

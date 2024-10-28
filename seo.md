@@ -4,8 +4,8 @@ prev:
   text: 'nestjs(后端)'
   link: '/nest'
 next:
-  text: '文档搭建(vitepress)'
-  link: '/word'
+  text: '埋点'
+  link: '/maidian'
 ---
 # SEO(搜索引擎优化)
 **回答TDK (title description keywords)**

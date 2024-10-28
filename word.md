@@ -1,7 +1,7 @@
 ---
 outline: deep
 prev:
-  text: "SEO(搜索引擎优化)"
+  text: "埋点"
   link: "/seo"
 ---
 
