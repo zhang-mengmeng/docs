@@ -43,6 +43,8 @@ export default defineConfig({
         items: [
           { text: 'SEO(搜素引擎优化)', link: '/seo.md' },
           { text: '埋点', link: '/maidian.md' },
+          { text: 'LRU算法', link: '/lru.md' },
+          { text: 'PWA', link: '/pwa.md' },
         ]
       },
       {
