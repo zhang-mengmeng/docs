@@ -30,6 +30,14 @@ export default defineConfig({
               { text: 'Class类', link: '/class' },
             ]
            },
+           { text: '通信',
+            items:[
+              { text: 'fetch', link: '/fetch.md' },
+              { text: 'ajax', link: '/xhr.md' },
+              { text: 'sse', link: '/sse.md' },
+              { text: 'websocked', link: '/ws.md' },
+            ]
+           },
         ]
       },
       {

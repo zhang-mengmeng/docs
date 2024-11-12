@@ -1,8 +1,8 @@
 ---
 outline: deep
 prev:
-  text: 'Class类(TypeScript)'
-  link: '/class'
+  text: 'websocked'
+  link: '/ws'
 next:
   text: 'seo(搜索引擎优化)'
   link: '/seo'

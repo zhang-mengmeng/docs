@@ -1,3 +1,13 @@
+---
+outline: deep
+prev:
+  text: '埋点'
+  link: '/maidian'
+next:
+  text: 'pwa'
+  link: '/pwa'
+---
+
 ### 引言
 
 **LRU**（Least Recently Used）是一种常见的缓存淘汰算法，用于管理有限空间的缓存。当缓存空间满了时，LRU 会根据缓存的使用历史来决定淘汰哪个缓存项，策略是**淘汰最久未被使用的项**。LRU 算法主要用于提高系统性能，特别是在缓存管理、内存管理、数据库等领域中。
