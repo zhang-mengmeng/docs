@@ -44,6 +44,8 @@ export default defineConfig({
         text: '后端',
         items: [
           { text: 'nest', link: '/nest.md' },
+          { text: 'express基本使用', link: '/express.md' },
+          { text: 'http响应头和请求头', link: '/http.md' },
         ]
       },
       {
