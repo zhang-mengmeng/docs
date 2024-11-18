@@ -1,3 +1,13 @@
+---
+outline: deep
+prev:
+  text: 'express基本使用'
+  link: '/express.md'
+next:
+  text: 'http协商缓存和强缓存'
+  link: '/cache.md'
+---
+# SEO(搜索引擎优化)
 ### 概述
 
 在 HTTP 协议中，请求头和响应头是客户端与服务器通信的重要组成部分。它们包含关于请求或响应的元数据。通常是以键值对的形式出现

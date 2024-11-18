@@ -1,8 +1,8 @@
 ---
 outline: deep
 prev:
-  text: 'nestjs(后端)'
-  link: '/nest'
+  text: 'http协商缓存和强缓存'
+  link: '/cache'
 next:
   text: '埋点'
   link: '/maidian'

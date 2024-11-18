@@ -35,7 +35,7 @@ export default defineConfig({
               { text: 'fetch', link: '/fetch.md' },
               { text: 'ajax', link: '/xhr.md' },
               { text: 'sse', link: '/sse.md' },
-              { text: 'websocked', link: '/ws.md' },
+              { text: 'websocket', link: '/ws.md' },
             ]
            },
         ]
@@ -46,6 +46,7 @@ export default defineConfig({
           { text: 'nest', link: '/nest.md' },
           { text: 'express基本使用', link: '/express.md' },
           { text: 'http响应头和请求头', link: '/http.md' },
+          { text: 'http协商缓存和强缓存', link: '/cache.md' },
         ]
       },
       {

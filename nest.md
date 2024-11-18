@@ -4,8 +4,8 @@ prev:
   text: 'websocked'
   link: '/ws'
 next:
-  text: 'seo(搜索引擎优化)'
-  link: '/seo'
+  text: 'express基本使用'
+  link: '/express.md'
 ---
 # nest
 
